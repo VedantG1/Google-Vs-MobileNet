@@ -1,0 +1,61 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+}
+.footer{
+    color: lightgreen;
+    background-color: blueviolet;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    margin: 0;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color: purple;
+}
+.first,.second{
+    background-color:cyan;
+    border-radius: 10px;
+    line-height: 2;
+}
+.testImageAndResult1,.testImageAndResult2,.testImageAndResult3{
+    margin-top: 15px;
+    background-color: rgb(190, 42, 42);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1,.white2,.white3{
+    color: white;
+}
+span{
+    color: red;
+}
+.googleLens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+#output1Google, #output1Mobilenet, #output2Mobilenet, #output3Mobilenet, #output2Google, #output3Google{
+    height: 200px;
+    width: 200px;
+}
